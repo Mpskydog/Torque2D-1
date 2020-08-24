@@ -37,7 +37,6 @@ function AppCore::create( %this )
     
     // Initialize audio
     initializeOpenAL();
-    
     ModuleDatabase.loadGroup("gameBase");
 }
 
