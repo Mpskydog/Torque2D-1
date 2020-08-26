@@ -1,0 +1,1487 @@
+<CompositeSprite
+    class="TileMapObject"
+    SceneLayer="24"
+    SceneGroup="11"
+    BodyType="static"
+    Position="-215.05 -28.357"
+    Awake="false"
+    GravityScale="0"
+    UseInputEvents="true"
+    DefaultSpriteStride="6.827 6.827"
+    DefaultSpriteSize="6.827 6.827"
+    BatchLayout="rect"
+    BatchSortMode="Z"
+    LayoutMode="Rectilinear">
+    <CompositeSprite.Sprites>
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="0 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="0 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="6.827 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="1 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="13.654 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="2 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="20.481 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="3 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="27.308 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="4 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="34.135 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="5 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="40.962 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="6 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="47.789 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="7 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="54.616 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="8 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="61.443 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="9 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="68.27 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="10 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="75.097 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="11 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="81.924 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="12 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="88.751 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="13 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="95.578 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="14 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="102.4 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="15 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="109.23 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="16 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="116.06 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="17 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="122.89 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="18 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="129.71 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="19 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="136.54 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="20 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="143.37 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="21 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="150.19 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="22 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="157.02 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="23 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="163.85 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="24 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="3"
+            Position="170.68 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="25 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="177.5 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="26 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="184.33 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="27 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="191.16 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="28 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="197.98 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="29 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="204.81 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="30 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="211.64 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="31 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="218.46 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="32 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="225.29 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="33 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="232.12 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="34 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="238.95 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="35 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="245.77 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="36 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="252.6 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="259.43 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="266.25 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="273.08 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="279.91 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="41 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="286.73 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="42 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="293.56 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="43 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="300.39 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="44 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="307.21 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="45 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="314.04 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="46 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="320.87 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="47 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="327.7 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="48 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="334.52 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="49 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="341.35 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="50 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="348.18 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="51 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="355 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="52 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="361.83 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="53 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="368.66 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="54 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="375.49 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="55 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="382.31 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="56 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="389.14 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="57 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="395.97 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="58 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="402.79 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="59 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="409.62 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="60 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="416.45 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="61 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="423.27 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="62 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="430.1 0"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="63 0" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="0 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="0 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="6.827 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="1 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="13.654 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="2 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="20.481 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="3 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="27.308 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="4 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="34.135 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="5 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="40.962 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="6 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="47.789 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="7 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="54.616 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="8 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="61.443 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="9 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="68.27 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="10 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="75.097 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="11 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="81.924 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="12 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="88.751 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="13 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="95.578 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="14 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="102.4 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="15 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="109.23 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="16 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="116.06 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="17 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="122.89 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="18 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="129.71 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="19 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="136.54 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="20 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="0"
+            Position="170.68 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="25 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="177.5 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="26 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="184.33 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="27 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="191.16 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="28 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="197.98 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="29 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="204.81 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="30 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="211.64 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="31 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="218.46 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="32 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="225.29 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="33 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="3"
+            Position="232.12 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="34 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="238.95 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="35 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="245.77 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="36 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="252.6 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="259.43 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="266.25 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="273.08 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="279.91 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="41 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="286.73 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="42 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="293.56 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="43 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="300.39 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="44 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="307.21 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="45 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="314.04 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="46 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="320.87 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="47 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="327.7 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="48 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="334.52 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="49 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="341.35 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="50 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="348.18 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="51 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="355 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="52 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="361.83 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="53 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="368.66 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="54 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="375.49 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="55 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="382.31 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="56 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="389.14 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="57 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="395.97 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="58 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="402.79 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="59 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="409.62 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="60 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="416.45 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="61 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="423.27 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="62 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="430.1 6.827"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="63 1" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="0 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="0 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="6.827 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="1 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="13.654 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="2 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="20.481 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="3 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="27.308 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="4 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="34.135 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="5 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="40.962 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="6 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="47.789 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="7 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="54.616 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="8 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="61.443 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="9 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="68.27 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="10 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="75.097 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="11 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="81.924 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="12 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="88.751 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="13 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="95.578 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="14 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="109.23 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="16 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="116.06 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="17 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="122.89 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="18 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="177.5 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="26 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="184.33 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="27 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="191.16 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="28 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="197.98 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="29 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="204.81 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="30 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="211.64 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="31 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="218.46 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="32 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="0"
+            Position="232.12 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="34 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="3"
+            Position="238.95 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="35 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="245.77 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="36 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="252.6 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="259.43 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="266.25 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="273.08 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="279.91 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="41 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="286.73 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="42 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="293.56 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="43 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="314.04 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="46 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="320.87 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="47 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="327.7 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="48 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="334.52 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="49 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="341.35 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="50 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="348.18 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="51 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="355 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="52 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="361.83 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="53 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="368.66 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="54 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="375.49 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="55 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="382.31 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="56 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="430.1 13.654"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="63 2" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="0 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="0 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="6.827 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="1 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="13.654 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="2 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="1"
+            Position="20.481 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="3 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="27.308 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="4 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="34.135 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="5 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="40.962 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="6 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="47.789 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="7 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="54.616 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="8 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="61.443 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="9 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="68.27 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="10 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="75.097 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="11 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="81.924 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="12 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="0"
+            Position="238.95 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="35 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="3"
+            Position="245.77 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="36 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="252.6 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="259.43 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="266.25 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="273.08 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="5"
+            Position="279.91 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="41 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="286.73 20.481"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="42 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="27.308 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="4 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="34.135 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="5 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="40.962 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="6 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="47.789 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="7 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="54.616 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="8 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="61.443 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="9 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="68.27 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="10 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="75.097 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="11 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="0"
+            Position="245.77 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="36 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="7"
+            Position="252.6 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="259.43 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="4"
+            Position="266.25 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="8"
+            Position="273.08 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="2"
+            Position="279.91 27.308"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="41 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="9"
+            Position="252.6 34.135"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="37 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="259.43 34.135"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="38 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="6"
+            Position="266.25 34.135"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="39 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicTileSet"
+            Frame="10"
+            Position="273.08 34.135"
+            Size="6.827 6.827"
+            allowManipulationPull="false"
+            LogicalPosition="40 5" />
+    </CompositeSprite.Sprites>
+</CompositeSprite>

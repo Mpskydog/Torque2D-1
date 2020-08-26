@@ -1,0 +1,150 @@
+<Scroller
+    SceneLayer="27"
+    SceneGroup="11"
+    Size="436.93 3"
+    Position="0 -3.25"
+    FixedAngle="true"
+    BodyType="Static"
+    Awake="false"
+    CollisionGroups="none"
+    DefaultFriction="2"
+    BlendColor="TransparentWhite"
+    CollisionCallback="true"
+    Image="@asset=ToyAssets:Blank"
+    Frame="0"
+    repeatX="36.4106674">
+    <Scroller.CollisionShapes>
+        <Edge>
+            <Point>-218.42 -1.1934</Point>
+            <Point>-191.17 -1.1934</Point>
+        </Edge>
+        <Edge>
+            <Point>-191.17 -1.1934</Point>
+            <Point>-184.31 2.1758</Point>
+        </Edge>
+        <Edge>
+            <Point>-184.31 2.1758</Point>
+            <Point>-143.38 2.2002</Point>
+        </Edge>
+        <Edge>
+            <Point>-143.38 2.2002</Point>
+            <Point>-136.5 -1.2422</Point>
+        </Edge>
+        <Edge>
+            <Point>-136.5 -1.2422</Point>
+            <Point>-129.7 -8.0254</Point>
+        </Edge>
+        <Edge>
+            <Point>-129.7 -8.0254</Point>
+            <Point>-122.89 -8.0498</Point>
+        </Edge>
+        <Edge>
+            <Point>-122.89 -8.0498</Point>
+            <Point>-116.04 -14.852</Point>
+        </Edge>
+        <Edge>
+            <Point>-116.04 -14.852</Point>
+            <Point>-109.26 -14.876</Point>
+        </Edge>
+        <Edge>
+            <Point>-109.26 -14.876</Point>
+            <Point>-102.4 -11.434</Point>
+        </Edge>
+        <Edge>
+            <Point>-102.4 -11.434</Point>
+            <Point>-95.602 -11.482</Point>
+        </Edge>
+        <Edge>
+            <Point>-95.602 -11.482</Point>
+            <Point>-88.741 -14.876</Point>
+        </Edge>
+        <Edge>
+            <Point>-88.741 -14.876</Point>
+            <Point>-81.895 -14.9</Point>
+        </Edge>
+        <Edge>
+            <Point>-81.895 -14.9</Point>
+            <Point>-75.14 -21.608</Point>
+        </Edge>
+        <Edge>
+            <Point>-75.14 -21.608</Point>
+            <Point>-47.775 -21.633</Point>
+        </Edge>
+        <Edge>
+            <Point>-47.775 -21.633</Point>
+            <Point>-40.963 -14.846</Point>
+        </Edge>
+        <Edge>
+            <Point>-40.963 -14.846</Point>
+            <Point>-34.11 -11.454</Point>
+        </Edge>
+        <Edge>
+            <Point>-34.11 -11.454</Point>
+            <Point>-27.28 -11.454</Point>
+        </Edge>
+        <Edge>
+            <Point>-27.28 -11.454</Point>
+            <Point>-20.524 -14.823</Point>
+        </Edge>
+        <Edge>
+            <Point>-20.524 -14.823</Point>
+            <Point>-13.598 -11.405</Point>
+        </Edge>
+        <Edge>
+            <Point>-13.598 -11.405</Point>
+            <Point>-0.039099 -11.43</Point>
+        </Edge>
+        <Edge>
+            <Point>-0.039099 -11.43</Point>
+            <Point>6.789 -14.823</Point>
+        </Edge>
+        <Edge>
+            <Point>6.789 -14.823</Point>
+            <Point>13.67 -14.823</Point>
+        </Edge>
+        <Edge>
+            <Point>13.67 -14.823</Point>
+            <Point>34.154 5.6221</Point>
+        </Edge>
+        <Edge>
+            <Point>34.154 5.6221</Point>
+            <Point>40.984 9.0361</Point>
+        </Edge>
+        <Edge>
+            <Point>40.984 9.0361</Point>
+            <Point>54.62 9.0361</Point>
+        </Edge>
+        <Edge>
+            <Point>54.62 9.0361</Point>
+            <Point>61.424 5.6182</Point>
+        </Edge>
+        <Edge>
+            <Point>61.424 5.6182</Point>
+            <Point>81.937 -14.85</Point>
+        </Edge>
+        <Edge>
+            <Point>81.937 -14.85</Point>
+            <Point>95.546 -14.85</Point>
+        </Edge>
+        <Edge>
+            <Point>95.546 -14.85</Point>
+            <Point>102.38 -11.432</Point>
+        </Edge>
+        <Edge>
+            <Point>102.38 -11.432</Point>
+            <Point>163.86 -11.456</Point>
+        </Edge>
+        <Edge>
+            <Point>163.86 -11.456</Point>
+            <Point>170.67 -14.85</Point>
+        </Edge>
+        <Edge>
+            <Point>170.67 -14.85</Point>
+            <Point>211.62 -14.85</Point>
+        </Edge>
+        <Edge>
+            <Point>211.62 -14.85</Point>
+            <Point>218.48 -11.383</Point>
+        </Edge>
+    </Scroller.CollisionShapes>
+</Scroller>

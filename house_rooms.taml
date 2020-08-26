@@ -1,0 +1,40 @@
+<CompositeSprite
+    class="TileMapObject"
+    SceneLayer="26"
+    SceneGroup="11"
+    Position="-215.05 -14.65025"
+    BodyType="Static"
+    Awake="false"
+    GravityScale="0"
+    DefaultSpriteStride="3.4135 3.4135"
+    DefaultSpriteSize="3.4135 3.4135"
+    BatchLayout="rect"
+    BatchSortMode="Z"
+    LayoutMode="Rectilinear">
+    <CompositeSprite.Sprites>
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="0"
+            Position="6.827 13.654"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="1"
+            Position="10.2405 13.654"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="5"
+            Position="6.827 17.0675"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="4"
+            Position="10.2405 17.0675"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 5" />
+    </CompositeSprite.Sprites>
+</CompositeSprite>

@@ -1,0 +1,88 @@
+<CompositeSprite
+    class="TileMapObject"
+    SceneLayer="25"
+    SceneGroup="11"
+    Position="-214.76 -14.65025"
+    BodyType="Static"
+    Awake="false"
+    GravityScale="0"
+    DefaultSpriteStride="3.4135 3.4135"
+    DefaultSpriteSize="3.4135 3.4135"
+    BatchLayout="rect"
+    BatchSortMode="Z"
+    LayoutMode="Rectilinear">
+    <CompositeSprite.Sprites>
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="3"
+            Position="3.4135 20.481"
+            Size="3.4135 3.4135"
+            LogicalPosition="1 6" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="6"
+            Position="10.2405 20.481"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 6" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="6"
+            Position="6.827 20.481"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 6" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="7"
+            Position="3.4135 17.0675"
+            Size="3.4135 3.4135"
+            LogicalPosition="1 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="2"
+            Position="6.827 17.0675"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="7"
+            Position="3.4135 13.654"
+            Size="3.4135 3.4135"
+            LogicalPosition="1 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="2"
+            Position="6.827 13.654"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="2"
+            Position="10.2405 13.654"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 4" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="2"
+            Position="10.2405 17.0675"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 5" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="7"
+            Position="3.4135 10.2405"
+            Size="3.4135 3.4135"
+            LogicalPosition="1 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="10"
+            Position="6.827 10.2405"
+            Size="3.4135 3.4135"
+            LogicalPosition="2 3" />
+        <Sprite
+            Image="SomeDudeConcept:basicRoomTileSet"
+            Frame="10"
+            Position="10.2405 10.2405"
+            Size="3.4135 3.4135"
+            LogicalPosition="3 3" />
+    </CompositeSprite.Sprites>
+</CompositeSprite>

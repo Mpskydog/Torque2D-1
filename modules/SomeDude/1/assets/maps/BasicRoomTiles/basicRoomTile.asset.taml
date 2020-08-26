@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="basicRoomTileSet"
+    ImageFile="Houses.png"
+    cellCountX="4"
+    cellCountY="3"
+    cellWidth="256"
+    cellHeight="256" />

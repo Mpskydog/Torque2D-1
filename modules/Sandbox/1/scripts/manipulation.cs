@@ -51,6 +51,17 @@ function SandboxInputController::initialize( %this )
     SandboxWindow.addInputListener( %this );
 }
 
+function Sandbox::setObjectNoManipulation(%this, %object, %bool)
+{
+    // Turns manipulation of individual objects on/off
+    %object.allowManipulation = %bool;
+}
+
+function Sandbox::getObjectNoManipulation(%this, %object)
+{
+    return %object.allowManipulation;
+}
+
 //-----------------------------------------------------------------------------
 
 function SandboxInputController::onTouchDown(%this, %touchID, %worldPosition)
@@ -108,9 +119,48 @@ function SandboxInputController::onTouchDown(%this, %touchID, %worldPosition)
             if ( %pickedObject.getBodyType() $= "static" )
                 continue;
                 
+            if (Sandbox.getObjectNoManipulation(%pickedObject) == true)
+                continue;
+
             // Set the pull object.
             Sandbox.ManipulationPullObject[%touchID] = %pickedObject;
             Sandbox.ManipulationPullJointId[%touchID] = SandboxScene.createTargetJoint( %pickedObject, %worldPosition, Sandbox.ManipulationPullMaxForce );            
+            if (SomeDudeConcept.StartUp $= "object_editor")
+                {// Object editor mode - when an object is picked up, we turn off gravity and collision and perform other work
+                %pickedObject.setCollisionSuppress(true); // suppress any collisions for now
+                %pickedObject.setGravityScale(0); // Set its gravity scale to 0
+                %pickedObject.setAngle(0); // Set it to an angle of zero
+                %pickedObject.setFixedAngle(true); // Set it to keep a fixed angle
+                SomeDudeConcept.currentObject = %touchID; // Store the object touch ID we were just working with
+                }
+            else
+                {
+                %loadPhase = SomeDudeConcept.loadPhase;
+                if (%loadPhase != 2)
+                    {
+                    if (%pickedObject.getCollisionSuppress() == true)
+                        {
+                        %pickedObject.setCollisionSuppress(false); // Make sure we stop suppressing the collision
+                        %pickedObject.other.setCollisionSuppress(false); // Make sure we stop suppressing the collision
+                        }
+                    if (%pickedObject.getGravityScale() == 0)
+                        {
+                        %pickedObject.setGravityScale(1); // Make sure to turn gravity back on
+                        %pickedObject.other.setGravityScale(1); // Make sure to turn gravity back on
+                        }
+                    %pickedObject.currentRow = %loadPhase;
+                    SomeDudeConcept.currentObject = %touchID; // Store the object touch ID we were just working with
+                    if (%pickedObject.compositeObject == true)
+                        { // Make sure both halves behave the same
+                        SomeDudeConcept.updateCollision(%pickedObject, true);
+                        }
+                    else
+                        {
+                        SomeDudeConcept.updateCollision(%pickedObject, false);
+                        }
+                }
+                }
+            
             return;
         }
         
@@ -160,12 +210,36 @@ function SandboxInputController::onTouchUp(%this, %touchID, %worldPosition)
         if ( !isObject(Sandbox.ManipulationPullObject[%touchID]) )
             return;
         
+        if (SomeDudeConcept.StartUp $= "object_editor")
+            {// Object editor mode
+            %pickedObject = Sandbox.ManipulationPullObject[%touchID];
+            %pickedObject.setLinearVelocityX(0); // For now, set its linearvelocity to zero so it stays put
+            %pickedObject.setLinearVelocityY(0);
+            if (%pickedObject.compositeObject == true)
+                {
+                %pickedObject.other.setLinearVelocityX(0);
+                %pickedObject.other.setLinearVelocityY(0);
+                }
+            SomeDudeConcept.currentObject =""; // Clear the touch ID we were just working with
+            }
+        if (SomeDudeConcept.loadPhase != 2)
+            {
+                if (%pickedObject.compositeObject == true)
+                    { // Make sure both halves behave the same
+                    SomeDudeConcept.restoreCollision(%pickedObject, true);
+                    }
+                else
+                    SomeDudeConcept.restoreCollision(%pickedObject);
+            }
+
         // Reset the pull object.
         Sandbox.ManipulationPullObject[%touchID] = "";
+        SomeDudeConcept.currentObject = ""; // Clear the touch ID we were just working with
         
         // Remove the pull joint.
         SandboxScene.deleteJoint( Sandbox.ManipulationPullJointId[%touchID] );
         Sandbox.ManipulationPullJointId[%touchID] = "";        
+
         return;
     }      
 }

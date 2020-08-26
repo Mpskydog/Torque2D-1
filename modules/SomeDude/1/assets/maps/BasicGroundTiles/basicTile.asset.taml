@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="basicTileSet"
+    ImageFile="BasicGroundTile.png"
+    cellCountX="3"
+    cellCountY="4"
+    cellWidth="512"
+    cellHeight="512" />

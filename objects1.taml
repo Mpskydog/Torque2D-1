@@ -1,0 +1,500 @@
+  <SimSet>
+    <Sprite
+        class="endTable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Position="-204.14 -2.0052"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:endTable"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>-0.30001 -0.50002</Point>
+                <Point>-0.30001 0.50002</Point>
+                <Point>-0.43335 0.50002</Point>
+                <Point>-0.43335 -0.50002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.43335 -0.50002</Point>
+                <Point>0.43335 0.50002</Point>
+                <Point>0.28668 0.50002</Point>
+                <Point>0.28668 -0.50002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.28668 0.006667</Point>
+                <Point>0.28668 0.50002</Point>
+                <Point>-0.30001 0.50002</Point>
+                <Point>-0.30001 0.006667</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="endTable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Position="-208.23 -1.9891"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:endTable"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>-0.30001 -0.50002</Point>
+                <Point>-0.30001 0.50002</Point>
+                <Point>-0.43335 0.50002</Point>
+                <Point>-0.43335 -0.50002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.43335 -0.50002</Point>
+                <Point>0.43335 0.50002</Point>
+                <Point>0.28668 0.50002</Point>
+                <Point>0.28668 -0.50002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.28668 0.006667</Point>
+                <Point>0.28668 0.50002</Point>
+                <Point>-0.30001 0.50002</Point>
+                <Point>-0.30001 0.006667</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="nonBreakable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.5"
+        Position="-203.48 -2.1962"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="0"
+        DefaultFriction="0"
+        GravityScale="0"
+        Image="@asset=ToyAssets:Football"
+        Frame="0"
+        currentRow="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Circle
+                Radius="0.25" />
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="nonBreakable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.5"
+        Position="-207.18 1.2022"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="0"
+        DefaultFriction="0"
+        GravityScale="0"
+        Image="@asset=ToyAssets:Football"
+        Frame="0"
+        currentRow="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Circle
+                Radius="0.25" />
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="nonBreakable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.5"
+        Position="-205.92 1.8671"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="0.100000001"
+        DefaultRestitution="0.200000003"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:throwPillow1"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.10667 -0.20001</Point>
+                <Point>0.10667 0.20001</Point>
+                <Point>0.053336 0.25335</Point>
+                <Point>-0.053336 0.25068</Point>
+                <Point>-0.10667 0.20001</Point>
+                <Point>-0.10667 -0.20001</Point>
+                <Point>-0.053336 -0.25335</Point>
+                <Point>0.053336 -0.25335</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="nonBreakable"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.5"
+        Position="-205.34 1.1725"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="0.100000001"
+        DefaultRestitution="0.200000003"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:throwPillow2"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.22668 0.24001</Point>
+                <Point>-0.013334 0.21334</Point>
+                <Point>-0.20401 0.0053336</Point>
+                <Point>-0.21334 -0.21334</Point>
+                <Point>0 -0.20001</Point>
+                <Point>0.21334 -0.013334</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.013334 0.21334</Point>
+                <Point>-0.22668 0.24001</Point>
+                <Point>-0.20401 0.0053336</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.22668 -0.21334</Point>
+                <Point>0.21334 -0.013334</Point>
+                <Point>0 -0.20001</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="chair"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="1 1.5"
+        Position="-205.76 1.7287"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:chairDining1"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.43335 -0.32002</Point>
+                <Point>0.43335 -0.13334</Point>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.27335 -0.32002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.43335 -0.7467</Point>
+                <Point>0.43335 -0.32002</Point>
+                <Point>0.32668 -0.32002</Point>
+                <Point>0.32668 -0.7467</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.27335 -0.7467</Point>
+                <Point>-0.27335 -0.32002</Point>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.38002 -0.25335</Point>
+                <Point>-0.38002 -0.7467</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.28668 0.72004</Point>
+                <Point>-0.44669 0.72004</Point>
+                <Point>-0.44669 -0.25335</Point>
+                <Point>-0.38002 -0.25335</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="chair"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="1 1.5"
+        Position="-209.16 -1.7193"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:chairDining1"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.43335 -0.32002</Point>
+                <Point>0.43335 -0.13334</Point>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.27335 -0.32002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.43335 -0.7467</Point>
+                <Point>0.43335 -0.32002</Point>
+                <Point>0.32668 -0.32002</Point>
+                <Point>0.32668 -0.7467</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.27335 -0.7467</Point>
+                <Point>-0.27335 -0.32002</Point>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.38002 -0.25335</Point>
+                <Point>-0.38002 -0.7467</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.28668 -0.13334</Point>
+                <Point>-0.28668 0.72004</Point>
+                <Point>-0.44669 0.72004</Point>
+                <Point>-0.44669 -0.25335</Point>
+                <Point>-0.38002 -0.25335</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        Name="objectLamp"
+        class="lamp"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.75"
+        Position="-204.19 -1.1381"
+        Angle="0"
+        Awake="false"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:lamp1"
+        Frame="0"
+        compositeObject="1"
+        currentRow="0"
+        objectType="household"
+        other="objectShade">
+        <Sprite.CollisionShapes>
+            <Circle
+                Radius="0.13334"
+                Offset="0.0053336 -0.21868" />
+            <Polygon>
+                <Point>0.026668 -0.093338</Point>
+                <Point>0.026668 0.33335</Point>
+                <Point>-0.013334 0.33335</Point>
+                <Point>-0.013334 -0.093338</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.14667 -0.37335</Point>
+                <Point>0.14667 -0.33335</Point>
+                <Point>-0.13334 -0.33335</Point>
+                <Point>-0.13334 -0.37335</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        Name="objectShade"
+        class="lamp"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.5 0.75"
+        Position="-204.19 -1.1381"
+        Angle="0"
+        Awake="false"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="0.100000001"
+        DefaultRestitution="0.200000003"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:shade1"
+        Frame="0"
+        compositeObject="1"
+        currentRow="0"
+        objectType="household"
+        other="objectLamp">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.16001 -0.040002</Point>
+                <Point>0.16001 0.30668</Point>
+                <Point>-0.14667 0.30668</Point>
+                <Point>-0.14667 -0.040002</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="box"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.75 0.5"
+        Position="-208.25 -1.2409"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="2"
+        DefaultFriction="0.800000012"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:cardboardBox"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.33335 -0.26001</Point>
+                <Point>0.33335 0.19334</Point>
+                <Point>0.013334 0.23334</Point>
+                <Point>-0.36002 0.20668</Point>
+                <Point>-0.36002 -0.26001</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="box"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.75 0.5"
+        Position="-208.23 -0.77593"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="2"
+        DefaultFriction="0.800000012"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:cardboardBox"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.33335 -0.26001</Point>
+                <Point>0.33335 0.19334</Point>
+                <Point>0.013334 0.23334</Point>
+                <Point>-0.36002 0.20668</Point>
+                <Point>-0.36002 -0.26001</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="chair"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.75 1"
+        Position="-203.92 1.4433"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultFriction="0.75"
+        DefaultRestitution="0.0500000007"
+        GravityScale="0"
+        Image="@asset=SomeDudeConcept:barStool"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>0.28001 0.39335</Point>
+                <Point>0.28001 0.47336</Point>
+                <Point>-0.29335 0.47336</Point>
+                <Point>-0.29335 0.39335</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.22668 -0.50002</Point>
+                <Point>0.22668 0.39335</Point>
+                <Point>0.14667 -0.43335</Point>
+                <Point>0.14667 -0.50002</Point>
+            </Polygon>
+            <Polygon>
+                <Point>0.22668 0.39335</Point>
+                <Point>-0.24001 0.39335</Point>
+                <Point>-0.24001 -0.43335</Point>
+                <Point>0.14667 -0.43335</Point>
+            </Polygon>
+            <Polygon>
+                <Point>-0.16001 -0.50002</Point>
+                <Point>-0.16001 -0.43335</Point>
+                <Point>-0.24001 -0.43335</Point>
+                <Point>-0.24001 -0.50002</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="box"
+        SceneLayer="21"
+        SceneGroup="8"
+        Size="0.75 0.75"
+        Position="-209.04 2.3046"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="2"
+        DefaultFriction="0.800000012"
+        DefaultRestitution="0.100000001"
+        GravityScale="0"
+        Image="@asset=ToyAssets:crate"
+        Frame="0"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>-0.375 -0.375</Point>
+                <Point>0.375 -0.375</Point>
+                <Point>0.375 0.375</Point>
+                <Point>-0.375 0.375</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+    <Sprite
+        class="box"
+        SceneLayer="21"
+        SceneGroup="8"
+        Position="-209.02 1.4385"
+        FixedAngle="false"
+        Awake="false"
+        Bullet="true"
+        CollisionGroups="8 9 10 11"
+        CollisionSuppress="true"
+        DefaultDensity="2"
+        DefaultFriction="0.800000012"
+        DefaultRestitution="0.100000001"
+        GravityScale="0"
+        Image="@asset=ToyAssets:Tiles"
+        Frame="2"
+        objectType="household">
+        <Sprite.CollisionShapes>
+            <Polygon>
+                <Point>-0.5 -0.5</Point>
+                <Point>0.5 -0.5</Point>
+                <Point>0.5 0.5</Point>
+                <Point>-0.5 0.5</Point>
+            </Polygon>
+        </Sprite.CollisionShapes>
+    </Sprite>
+</SimSet>
