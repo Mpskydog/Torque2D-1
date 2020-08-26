@@ -1,0 +1,27 @@
+<Scroller
+    SceneLayer="27"
+    SceneGroup="11"
+    Size="3 20"
+    Position="0 -6"
+    FixedAngle="true"
+    BodyType="Static"
+    Awake="false"
+    CollisionGroups="none"
+    DefaultFriction="0"
+    CollisionCallback="true"
+    blendAlpha="0.0"
+    Image="@asset=ToyAssets:Blank"
+    repeatY="36.4106674">
+    <Scroller.CollisionShapes>
+        <Edge>
+            <Point>-218.46 -20</Point>
+            <Point>-218.46 50</Point>
+        </Edge>
+        <Edge>
+            <Point>218.46 -20</Point>
+            <Point>218.46 50</Point>
+        </Edge>
+    </Scroller.CollisionShapes>
+</Scroller>
+
+

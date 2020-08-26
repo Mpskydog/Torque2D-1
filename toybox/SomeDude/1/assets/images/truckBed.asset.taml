@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="truckBedImage"
+    ImageFile="truck_bed.png"
+    cellCountX="2"
+    cellCountY="2"
+    cellWidth="640"
+    cellHeight="480"/>

@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="nightMask"
+    ImageFile="nightMask.png"
+    cellCountX="1"
+    cellCountY="1"
+    cellWidth="2048"
+    cellHeight="1024" />

@@ -1,0 +1,55 @@
+<Sprite
+    class="truckBody"
+    SceneLayer="9"
+    SceneGroup="26"
+    Size="6.827 2.347"
+    Position="-95.691 -2.9042"
+    Angle="0.0484781"
+    Awake="false"
+    CollisionGroups="8 10 11 23 24 25"
+    BlendColor="1 1 1 0.8"
+    CollisionCallback="true"
+    Image="@asset=SomeDudeConcept:truckBody"
+    Frame="0"
+    allowManipulation="1"
+    allowManipulationPull="0"
+    currentLane="0">
+    <Sprite.CollisionShapes>
+        <Polygon
+            Density="2.5">
+            <Point>1.9868 -1.0267</Point>
+            <Point>0.28001 -0.78671</Point>
+            <Point>-3.4135 -0.78671</Point>
+            <Point>-3.4135 -1.0401</Point>
+        </Polygon>
+        <Polygon
+            Density="2.5">
+            <Point>1.9868 -1.0267</Point>
+            <Point>1.8401 0.053336</Point>
+            <Point>1.2667 0.64003</Point>
+            <Point>0.29335 0.6667</Point>
+            <Point>0.28001 -0.78671</Point>
+        </Polygon>
+        <Polygon
+            Density="2.5">
+            <Point>3.4002 -1</Point>
+            <Point>3.3735 -0.080004</Point>
+            <Point>1.8401 0.053336</Point>
+            <Point>1.9868 -1.0267</Point>
+        </Polygon>
+        <Polygon
+            Density="2.5">
+            <Point>-3.0802 -0.78671</Point>
+            <Point>-3.0802 0.013334</Point>
+            <Point>-3.2268 0.013334</Point>
+            <Point>-3.2402 -0.78671</Point>
+        </Polygon>
+        <Polygon
+            Sensor="1">
+            <Point>0.28001 -0.78671</Point>
+            <Point>0.28001 0</Point>
+            <Point>-3.0802 0.013334</Point>
+            <Point>-3.0802 -0.78671</Point>
+        </Polygon>
+    </Sprite.CollisionShapes>
+</Sprite>

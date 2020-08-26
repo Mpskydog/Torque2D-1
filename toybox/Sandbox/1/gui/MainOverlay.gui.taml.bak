@@ -8,25 +8,6 @@
     MinExtent="220 30"
     Visible="1">	
 	
-  <!-- Release/Build version information-->
-  <GuiTextCtrl
-        Name="ReleaseBuildInfo"
-        Text="Test Info"
-        canSaveDynamicFields="0"
-        isContainer="0"
-        Profile="GuiTextProfile"
-        HorizSizing="left"
-        VertSizing="bottom"
-        Position="280 0"
-        Extent="100 30"
-        MinExtent="8 2"
-        canSave="1"
-        Visible="1"
-        Active="0"
-        hovertime="1000"
-        maxLength="255"
-        truncate="0" />
-
 	<!-- Manipulation Mode-->
     <GuiButtonCtrl
         Name="ManipulationModeButton"

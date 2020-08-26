@@ -1,0 +1,7 @@
+<ImageAsset
+    AssetName="endTable"
+    ImageFile="endTable.png"
+    cellCountX="1"
+    cellCountY="1"
+    cellWidth="75"
+    cellHeight="75" />

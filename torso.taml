@@ -1,0 +1,7 @@
+<Sprite
+    Size="0.25 0.25"
+    Position="-200 -2.6"
+    Awake="false"
+    GravityScale="0"
+    Image="@asset=SomeDudeConcept:dude_torso"
+    Frame="0" />

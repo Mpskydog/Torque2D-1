@@ -1,0 +1,56 @@
+<SimSet>
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_torso"
+    Position="-200.04 -2.74"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="20"
+    Image="@asset=SomeDudeConcept:dude_torso"
+    Frame="0" />
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_head"
+    Position="-200.05 -2.415"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="20"
+    Image="@asset=SomeDudeConcept:dude_head"
+    Frame="0" />
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_r_arm_low"
+    Position="-199.85 -2.79"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="19"
+    Image="@asset=SomeDudeConcept:dude_r_arm_low"
+    Frame="0" />
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_r_arm_up"
+    Position="-200.07 -2.75"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="19"
+    Image="@asset=SomeDudeConcept:dude_r_arm_up"
+    Frame="0" />
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_l_arm_low"
+    Position="-199.8 -2.75"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="21"
+    Image="@asset=SomeDudeConcept:dude_l_arm_low"
+    Frame="0" />
+<Sprite
+    Size="0.4 0.4"
+    Name="dude_l_arm_up"
+    Position="-199.95 -2.72"
+    Awake="false"
+    GravityScale="1"
+    SceneLayer="21"
+    Image="@asset=SomeDudeConcept:dude_l_arm_up"
+    Frame="0" />
+</SimSet>

@@ -1,0 +1,67 @@
+
+<Sprite   
+    Size="7 3.5">  
+    <Sprite.CollisionShapes>     
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>-125.5 -33.0</Point> 
+			<Point>-125.0 -40.2</Point> 
+			<Point>-122.0 -44.0</Point> 
+			<Point>-115.0 -41.0</Point> 
+			<Point>-121.0 -31.0</Point> 
+		</Polygon>  
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>36.0 34.0</Point> 
+			<Point>-6.5 35.8</Point> 
+			<Point>-11.0 32.0</Point> 
+			<Point>-12.0 -40.0</Point> 
+			<Point>62.5 1.0</Point> 
+		</Polygon>  
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>121.5 -8.0</Point> 
+			<Point>118.0 -1.0</Point> 
+			<Point>83.0 -1.0</Point> 
+			<Point>119.0 -27.0</Point> 
+			<Point>121.0 -19.0</Point> 
+		</Polygon>  
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>119.2 -37.4</Point> 
+			<Point>119.0 -27.0</Point> 
+			<Point>83.0 -1.0</Point> 
+			<Point>62.5 1.0</Point> 
+			<Point>-12.0 -40.0</Point> 
+			<Point>116.0 -44.0</Point> 
+		</Polygon>  
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>-120.5 -7.0</Point> 
+			<Point>-121.0 -31.0</Point> 
+			<Point>-115.0 -41.0</Point> 
+			<Point>-115.0 -1.0</Point> 
+		</Polygon>  
+        <Polygon 
+            Density="2"  
+            Friction="1"     
+			<Point>116.0 -44.0</Point> 
+			<Point>-12.0 -40.0</Point> 
+			<Point>-115.0 -41.0</Point> 
+			<Point>-122.0 -44.0</Point> 
+		</Polygon>      
+        <Polygon 
+            Density="2"    
+            Sensor="true">   
+			<Point>-115.0 -1.0</Point> 
+			<Point>-115.0 -41.0</Point> 
+			<Point>-12.0 -40.0</Point> 
+			<Point>-12.0 -2.0</Point> 
+		</Polygon>    
+    </Sprite.CollisionShapes>
+</Sprite>
